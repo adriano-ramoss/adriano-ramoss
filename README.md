@@ -16,7 +16,7 @@
   <img align="center" alt="adr-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="adr-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="adr-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1051939203665117247/1051939245805289594/bleach-kon-bleach-wallpaper-preview.jpg?width=543&height=434">
+   <img align="right" alt="pic"  height="130" style="border-radius:130px;" src="https://media.discordapp.net/attachments/1051939203665117247/1051939245805289594/bleach-kon-bleach-wallpaper-preview.jpg?width=543&height=434">
 </div>
   
   ##
