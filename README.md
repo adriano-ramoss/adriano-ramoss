@@ -1,6 +1,17 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 
 ### Olá! Eu sou o Adriano 👋
+
+<div style="display: inline_block" align="center">
+
+  <a href="https://github.com/Yan-Sena">
+
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adriano-ramoss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriano-ramoss&layout=compact&langs_count=7&theme=dracula"/>
+
+</div>
+
 
 
 - 🔭 Desenvolvedor De Software
