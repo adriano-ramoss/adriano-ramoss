@@ -16,7 +16,7 @@
 
 
 
-- 🔭 Desenvolvedor De Software
+- 🔭 Desenvolvedor De Sistemas
 - 🌱 Cursando Técnico em Desenvolvimento De Sistemas
 
 
